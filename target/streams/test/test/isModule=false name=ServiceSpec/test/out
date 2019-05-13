@@ -1,0 +1,33 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mServiceSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Bacon distance=1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- No such name[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Same name. 1: Bacon=2. casted without genres, 2: No bacon distance. casted in 3 movie with genres, but not typecasted[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Case doesn't matter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Bacon distance of Kevin Bacon is 0. typecasted in 1 movie 2 genres[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Typecasted in 2 genre/2 movies[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Casted in 3 movies, but only 1 with genre[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- No movie for this actor[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Casted in undefined movie[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Movie with actors and genres by prime title.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Movie without actors and genres by original title.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Case doesn't matter: Latin[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Case doesn't matter: non Latin[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- No such movie[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 2 movies by primary title[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 2 movies by original title[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 2 movies by prime and original title[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Movie with undef actor[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- One name[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 2 names with intersection[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 2 names without intersection[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 3 names with intersection (1 and 2 were in the 2nd movie, but without 3)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 1 of the names is unknown[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- qnt > answer size, off=0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- qnt = answer size, off=0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- qnt < answer size, off=0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- qnt < answer size, off=1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- off=answer size[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Genre case doesn't matter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Wrong genre[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Wrong qnt[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Wrong off[0m[0m
