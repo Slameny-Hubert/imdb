@@ -1,5 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/mgorokhovsky/work/imdb/src/test/resources/name.basics.tsv,/Users/mgorokhovsky/work/imdb/target/scala-2.12/test-classes/name.basics.tsv)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/mgorokhovsky/work/imdb/src/test/resources/title.basics.tsv,/Users/mgorokhovsky/work/imdb/target/scala-2.12/test-classes/title.basics.tsv)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/mgorokhovsky/work/imdb/src/test/resources/title.principals.tsv,/Users/mgorokhovsky/work/imdb/target/scala-2.12/test-classes/title.principals.tsv)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/mgorokhovsky/work/imdb/src/test/resources/title.ratings.tsv,/Users/mgorokhovsky/work/imdb/target/scala-2.12/test-classes/title.ratings.tsv)[0m
