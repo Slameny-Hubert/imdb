@@ -7,12 +7,14 @@ To start:
 The service provides next interfaces:
 1. Search by movie title (prime or original)
 /api/movie/<Movie name>
+
 Ex:
     http://localhost:9000/api/movie/War%20and%20Peace
     http://localhost:9000/api/movie/Freaks
 
 2. Search by actor name
 /api/name/<Actor name>
+
 Ex:
     http://localhost:9000/api/name/Michael%20Ackerman
     http://localhost:9000/api/name/Brigitte%20Bardot
@@ -21,12 +23,14 @@ Ex:
 /api/top/<genre name>?qnt=<positive number>&off=<non negative number>
 qnt - quantity of movies to show
 off - offset from the first position
+
 Ex:
     http://localhost:9000/api/top/drama?qnt=10&off=0
     http://localhost:9000/api/top/short?qnt=10&off=10
 
 4. Find the coincidence.
 /api/together?name=<actor name>[&name=<actor name>...]
+
 Ex:
     http://localhost:9000/api/together?name=Charles%20Kayser&name=John%20Ott&name=William%20K.L.%20Dickson
     http://localhost:9000/api/together?name=Brigitte%20Bardot
