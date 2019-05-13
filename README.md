@@ -1,4 +1,7 @@
+Sample service for processing IMDb sample datasets
+
 To start:
+* Download and unzip the dataset files https://datasets.imdbws.com/
 * Put the paths to the IMDB files to application.conf paths section
 * Change the port if necessary (http.port)
 * Run HttpService (it requires about 10G of memory, so use --Xmx10G)
